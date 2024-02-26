@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	background-color: #f4f0e5;
+}
+
+.container{
+	align-items: center;
+	text-align: center;
+	width: 700px;
+	margin: 20px auto;
+}
+
+.logo{
+	text-align: center;
+}
+
+.logo img{
+	width: 200px;
+}
+
+.nav{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	gap: 20px;
+}
+
+.nav ul li a{
+	text-decoration: underline;
+	color: #542f0c;
+	font-family: 'Poppins';
+	font-size: 26px;
+}
+
+.nav ul {
+	list-style: none;
+}
+
+.secao h1{	
+	height: 30px;
+	text-align: center;
+	border-top: 1px solid red;
+}
+
+.secao h3{
+	color: orange;
+	font-family: 'Poppins';
+}
+
+.imgprodutos img{
+	text-align: center;
+	width: 700px;
+}
+
+
+.secao2{
+	width: 700px;
+	background-color: darkorange;
+	text-align: center;
+}
+
+.secao2 img{
+	width: 700px;
+	
+}
+
+.secao2{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.secao2 h2{
+	color: #fff;
+	font-family: 'Poppins';
+}
+
+.secao2 h3{
+	color: #fff;
+	font-family: 'Poppins';
+}
+
+.secao2 p{
+	font-weight: 200;
+}
+
+.secao3 span{
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
